@@ -1,4 +1,5 @@
 import random
+from project_modules import check_game_logic
 
 options = ["Rock", "Paper", "Scissors"]
 computer_choice = random.choice(options)
@@ -16,28 +17,11 @@ while sanitized_input not in [o.lower() for o in options]:
 
 # Check win/win logic
 print("="* 16)
-if sanitized_computer == "rock" and sanitized_input == "paper":
-    print("You Win!")
-elif sanitized_computer == "rock" and sanitized_input == "scissors":
-    print("You lose!")
-elif sanitized_computer == "rock" and sanitized_input == "rock":
-    print("Draw!")
-elif sanitized_computer == "paper" and sanitized_input == "paper":
-    print("Draw!")
-elif sanitized_computer == "paper" and sanitized_input == "rock":
-    print("You Lose")
-elif sanitized_computer == "paper" and sanitized_input == "scissors":
-    print("You Win!")
-elif sanitized_computer == "scissors" and sanitized_input == "scissors":
-    print("Draw")
-elif sanitized_computer == "scissors" and sanitized_input == "rock":
-    print("You Win")
-elif sanitized_computer == "scissors" and sanitized_input == "paper":
-    print("You Lose")
-
+result = check_game_logic(sanitized_computer, sanitized_input)
 
 print("Computer | You")
 print("-----------------")
 print(sanitized_computer, sanitized_input)
+print(result)
 
 
