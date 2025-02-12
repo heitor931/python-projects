@@ -1,0 +1,15 @@
+http://10.4.137.51 - 2025-02-12 14:50:52.408407
+--------------------------------------------------
+Headers: {'Date': 'Wed, 12 Feb 2025 13:50:52 GMT', 'Server': 'Apache', 'Last-Modified': 'Fri, 03 Nov 2023 13:57:15 GMT', 'Accept-Ranges': 'bytes', 'Vary': 'Accept-Encoding', 'Content-Encoding': 'gzip', 'X-Content-Type-Options': 'nosniff', 'X-Permitted-Cross-Domain-Policies': 'none', 'Referrer-Policy': 'no-referrer', 'Cross-Origin-Opener-Policy': 'same-origin', 'Cross-Origin-Embedder-Policy': 'require-corp', 'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Wed, 11 Jan 1984 05:00:00 GMT', 'Content-Length': '878', 'Keep-Alive': 'timeout=5, max=100', 'Connection': 'Keep-Alive', 'Content-Type': 'text/html'}
+Status-Code: 200
+
+http://10.4.1.237 - 2025-02-12 14:50:52.408407
+--------------------------------------------------
+Headers: {'Server': 'Microsoft-IIS/5.1', 'X-Powered-By': 'ASP.NET', 'Content-Location': 'http://10.4.1.237/index.htm', 'Date': 'Wed, 12 Feb 2025 15:00:37 GMT', 'Content-Type': 'text/html', 'Accept-Ranges': 'bytes', 'Last-Modified': 'Tue, 11 Nov 2014 02:28:40 GMT', 'ETag': '"03c643457fdcf1:996"', 'Content-Length': '683'}
+Status-Code: 200
+
+https://www.google.com - 2025-02-12 14:50:52.408407
+--------------------------------------------------
+Headers: {'Date': 'Wed, 12 Feb 2025 13:50:53 GMT', 'Expires': '-1', 'Cache-Control': 'private, max-age=0', 'Content-Type': 'text/html; charset=ISO-8859-1', 'Content-Security-Policy-Report-Only': "object-src 'none';base-uri 'self';script-src 'nonce-4KKMN0iMZlRTu5CscnoftQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp", 'Accept-CH': 'Sec-CH-Prefers-Color-Scheme', 'P3P': 'CP="This is not a P3P policy! See g.co/p3phelp for more info."', 'Content-Encoding': 'gzip', 'Server': 'gws', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Set-Cookie': 'AEC=AVcja2eeKfQwxYCS3lzKr1T6qq13Aj1M6KZHz0ZV7xuh6DnW_dwxv1wDgxc; expires=Mon, 11-Aug-2025 13:50:53 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=521=vtfhXc2O4y3fWGXD1nyJBKgda0I1C_2VQrFWV5L1lBE2l_ucXAo5eXUyOHL5aRE56mf1nkjdvfxt95RpyhlrS9Ly4rOvyOkzb7ncYavDivpBQHV5OE3Ix4w9gCgRoWrDvRIRMHmEc0gewTznidSna3JIjI-6yHJQLklObsi1zih3pFXz5UMIIkBYRMEC9IVSH_P8MNDwoS5Veg; expires=Thu, 14-Aug-2025 13:50:53 GMT; path=/; domain=.google.com; HttpOnly', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'}
+Status-Code: 200
+
